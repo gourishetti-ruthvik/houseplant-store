@@ -1,0 +1,14 @@
+.cart-container {
+    text-align: center;
+}
+
+.cart-item {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    margin: 5px;
+}
